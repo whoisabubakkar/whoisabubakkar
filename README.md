@@ -31,6 +31,6 @@ I enjoy working close to the system layer—designing relational database schema
 
 ### Connect
 - **GitHub:** [github.com/whoisabubakkar](https://github.com/whoisabubakkar)
-- **LinkedIn:** [linkedin.com/in/abu-bakkar-8692b1255](https://www.linkedin.com/in/abu-bakkar-8692b1255)
+- **LinkedIn:** [linkedin.com/in/whoisabubakkar](https://www.linkedin.com/in/whoisabubakkar)
 - **Location:** Dhaka, Bangladesh
 - **Open to:** Backend Software Engineer, Full-Stack Software Engineer, and Cloud/Infrastructure roles
